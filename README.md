@@ -25,8 +25,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/sukhjinder-arora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sukhjinder-arora" height="30" width="40" /></a>
+<p>
 <a href="https://twitter.com/_sukh_arora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_sukh_arora" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sukhjinder-arora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sukhjinder-arora" height="30" width="40" /></a>
 <a href="https://hashnode.com/@sukhjinderarora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@sukhjinderarora" height="30" width="40" /></a>
