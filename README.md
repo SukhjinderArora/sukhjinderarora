@@ -30,11 +30,11 @@
 
 ### :writing_hand: Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a Responsive Carousel Component in React: The Complete Guide](https://medium.com/@Sukhjinder/building-a-responsive-carousel-component-in-react-the-complete-guide-36f3796d97f2?source=rss-dd13f34a896d------2)
 - [React and NodeJS Authentication with Refresh &amp; Access Tokens: A Step-by-Step Guide](https://medium.com/@Sukhjinder/react-and-nodejs-authentication-with-refresh-access-tokens-a-step-by-step-guide-343c7a722aec?source=rss-dd13f34a896d------2)
 - [Master PropTypes in React](https://blog.bitsrc.io/master-proptypes-in-react-a80f9fefff8?source=rss-dd13f34a896d------2)
 - [Understanding Promises in JavaScript](https://blog.bitsrc.io/understanding-promises-in-javascript-c5248de9ff8f?source=rss-dd13f34a896d------2)
 - [Understanding Call, Bind and Apply Methods in JavaScript](https://blog.bitsrc.io/understanding-call-bind-and-apply-methods-in-javascript-33dbf3217be?source=rss-dd13f34a896d------2)
-- [Understanding Scope and Scope Chain in JavaScript](https://blog.bitsrc.io/understanding-scope-and-scope-chain-in-javascript-f6637978cf53?source=rss-dd13f34a896d------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
